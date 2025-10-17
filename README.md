@@ -2,4 +2,4 @@
 
 
 Here’s how the page looks:
-![Home Screenshot](bootsrapoutput.png)
+![Home Screenshot](bootstrapoutput.png)
